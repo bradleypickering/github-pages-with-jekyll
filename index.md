@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my *first* blog
 
-I'm glad you are here. I plan to talk about ...
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu turpis egestas pretium aenean pharetra magna ac placerat. Dui vivamus arcu felis bibendum. Nulla aliquet enim tortor at auctor. Porttitor eget dolor morbi non arcu risus quis varius. Volutpat sed cras ornare arcu dui vivamus arcu felis. Adipiscing at in tellus integer feugiat scelerisque varius. Integer feugiat scelerisque varius morbi enim nunc. Urna cursus eget nunc scelerisque viverra mauris. Aliquet sagittis id consectetur purus ut faucibus.
